@@ -1,0 +1,92 @@
+[
+  {
+    "destination": "Jakarta",
+    "base_cost": 10000,
+    "cost_per_kg": 5000,
+    "eta_days": "1-2 hari"
+  },
+  {
+    "destination": "Bandung",
+    "base_cost": 8000,
+    "cost_per_kg": 4000,
+    "eta_days": "1-2 hari"
+  },
+  {
+    "destination": "Surabaya",
+    "base_cost": 15000,
+    "cost_per_kg": 6000,
+    "eta_days": "2-3 hari"
+  },
+  {
+    "destination": "Yogyakarta",
+    "base_cost": 12000,
+    "cost_per_kg": 5500,
+    "eta_days": "2-3 hari"
+  },
+  {
+    "destination": "Semarang",
+    "base_cost": 11000,
+    "cost_per_kg": 5000,
+    "eta_days": "2-3 hari"
+  },
+  {
+    "destination": "Medan",
+    "base_cost": 25000,
+    "cost_per_kg": 10000,
+    "eta_days": "4-5 hari"
+  },
+  {
+    "destination": "Makassar",
+    "base_cost": 22000,
+    "cost_per_kg": 9000,
+    "eta_days": "3-4 hari"
+  },
+  {
+    "destination": "Denpasar",
+    "base_cost": 18000,
+    "cost_per_kg": 7500,
+    "eta_days": "3-4 hari"
+  },
+  {
+    "destination": "Palembang",
+    "base_cost": 20000,
+    "cost_per_kg": 8000,
+    "eta_days": "3-4 hari"
+  },
+  {
+    "destination": "Balikpapan",
+    "base_cost": 28000,
+    "cost_per_kg": 11000,
+    "eta_days": "4-5 hari"
+  },
+  {
+    "destination": "Manado",
+    "base_cost": 30000,
+    "cost_per_kg": 12000,
+    "eta_days": "5-6 hari"
+  },
+  {
+    "destination": "Pontianak",
+    "base_cost": 26000,
+    "cost_per_kg": 10500,
+    "eta_days": "4-5 hari"
+  },
+  {
+    "destination": "Banjarmasin",
+    "base_cost": 24000,
+    "cost_per_kg": 9500,
+    "eta_days": "4-5 hari"
+  },
+  {
+    "destination": "Malang",
+    "base_cost": 14000,
+    "cost_per_kg": 5500,
+    "eta_days": "2-3 hari"
+  },
+  {
+    "destination": "Cirebon",
+    "base_cost": 9000,
+    "cost_per_kg": 4500,
+    "eta_days": "1-2 hari"
+  }
+]
